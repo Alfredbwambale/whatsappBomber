@@ -9,8 +9,7 @@ Developed By Debayan Sutradhar (ladiesman6969, DX_BETA)
 * Selenium
 * Gecko Web Driver (For Mozilla FireFox)
 
-#### You need to install Gecko Web Driver from https://github.com/mozilla/geckodriver/releases ...
-#### If you're on Linux, please download the geckodriver from there and then add it to the PATH Environment Variable ...
+#### In order to use this program, [download] the geckodriver from there and then add it to the PATH Environment Variable ...
 
 ### How to use (Windows)
 1. Download and install Python from https://python.org
@@ -39,3 +38,5 @@ Developed By Debayan Sutradhar (ladiesman6969, DX_BETA)
 ### License
 This program has been licensed under the GNU GPL v3 License.
 If you are a true FOSS (Free And Open Source Software) Lover, you wont customize this and redistribute this under your name!
+
+ [download]: <https://github.com/mozilla/geckodriver/releases>
