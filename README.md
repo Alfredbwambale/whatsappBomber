@@ -1,5 +1,4 @@
 # WhatsApp Bomber
-Developed By Debayan Sutradhar (ladiesman6969, DX_BETA)
  ``` Version 1.0 ```
  ```16/08/2018 ```
 
