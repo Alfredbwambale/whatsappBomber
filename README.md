@@ -31,10 +31,6 @@ Developed By Debayan Sutradhar (ladiesman6969, DX_BETA)
  ```python3 bomber.py ```
 10. Done!
 
-### Contacts
-* Email : debayansutradhar3@gmail.com
-* Phone No. : +91 9163002617
-
 ### License
 This program has been licensed under the GNU GPL v3 License.
 If you are a true FOSS (Free And Open Source Software) Lover, you wont customize this and redistribute this under your name!
